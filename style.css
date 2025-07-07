@@ -1,5 +1,6 @@
 :root {
-    --color-bg: #282828;
+    /* previous: #282828 */
+    --color-bg: #050808;
     --color-fg: #EADBB2;
     --color-link: #8F9191;
     --color-link-visited: #668F8B;
